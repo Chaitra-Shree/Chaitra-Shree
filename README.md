@@ -13,12 +13,6 @@ I'm a passionate software developer with a love for coding and problem-solving. 
 - **Frameworks:** Springboot
 - **Tools:** ChatGpt, OpenAI
 
-## GitHub Stats
-![Chaitra-Shree's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chaitra-Shree&show_icons=true&theme=radical)
-
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitra-Shree&layout=compact&theme=radical)
-
 ## My Portfolio
 - [https://chaitrashree.netlify.app/]
 
