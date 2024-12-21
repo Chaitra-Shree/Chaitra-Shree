@@ -1,4 +1,4 @@
-# Hi there, I'm Chaitra Shree 👋
+# Hi there, I'm Chaitra Shree! ✨
 
 ## About Me
 I'm a passionate software developer with a love for coding and problem-solving. I enjoy learning new technologies and applying them to create innovative solutions. My goal is to continuously improve my skills and contribute to meaningful projects.
