@@ -19,7 +19,7 @@ I'm a passionate software developer with a love for coding and problem-solving. 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitra-Shree&layout=compact&theme=radical)
 
-## Connect with Me
+## My Portfolio
 - [https://chaitrashree.netlify.app/]
 
 Thanks for visiting my profile! Have a great day 😊
